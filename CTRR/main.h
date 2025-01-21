@@ -4,3 +4,4 @@
 #include <fstream>
 
 using namespace std;
+int check = 1;
