@@ -6,7 +6,7 @@
 #include <string.h>
 #include <sstream>
 using namespace std;
-
+int clone;
 int main() {
     string test1 ="inMat3.txt";
     string test2 ="inMat1.txt";
