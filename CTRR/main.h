@@ -4,4 +4,5 @@
 #include <fstream>
 
 using namespace std;
-int out = 10;
+int check = 1;
+
